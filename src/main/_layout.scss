@@ -1,0 +1,45 @@
+html {
+	box-sizing: border-box;
+	background-repeat: no-repeat;
+	line-height: 1.5;
+	-webkit-text-size-adjust: 100%;
+}
+  
+*, *::before, *::after {
+	box-sizing: inherit;
+	background-repeat: inherit;
+	line-height: inherit;
+}
+
+body {
+	margin: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+hr {
+	height: 0;
+	color: inherit;
+}
+
+table {
+	text-indent: 0;
+	border-color: inherit;
+	border-collapse: collapse;
+}
+
+td, th {
+	padding: 0;
+}
+
+summary {
+	display: list-item;
+}
+
+nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}

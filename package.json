@@ -1,0 +1,42 @@
+{
+  "name": "spongia-css",
+  "version": "0.1.0",
+  "description": "Style resetter/normalizer for modern web browsers.",
+  "main": "dist/spongia.min.css",
+  "type": "module",
+  "scripts": {
+    "clean": "gulp clean",
+    "main:compile": "gulp main:compile",
+    "main:watch": "gulp main:watch",
+    "test:compile": "gulp test:compile",
+    "test:watch": "gulp test:watch"
+  },
+  "keywords": [
+    "style",
+    "css",
+    "sass",
+    "scss",
+    "normalizer",
+    "normalize",
+    "resetter",
+    "reset"
+  ],
+  "author": "inforgdev <contact@inforg.dev>",
+  "homepage": "https://github.com/inforgdev/spongia-css",
+  "license": "PPL",
+  "devDependencies": {
+    "cssnano": "^5.1.10",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^7.0.1",
+    "postcss": "^8.4.14",
+    "postcss-csso": "^6.0.0",
+    "pug": "^3.0.2"
+  }
+}

@@ -1,0 +1,25 @@
+b,
+strong {
+	font-weight: bold;
+}
+
+dfn { font-style: italic; }
+
+small { font-size: 80%; }
+
+sub, sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sub { bottom: -0.25em; }
+sup { top: -0.5em; }
+
+abbr[title] { text-decoration: underline dotted; }
+
+h1, h2, h3, h4, h5, h6,
+p {
+	margin: 0;
+}
