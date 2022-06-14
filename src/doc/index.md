@@ -1,10 +1,12 @@
-# About
+# SpongiaCSS Doc
+
+## About
 
 Spongia CSS is a style resetter/normalizer for modern web browsers.
 
 It makes a core base to build more easily the first steps.
 
-## Features
+### Features
 
 * Minified;
 * Support only for modern web browsers;
@@ -18,19 +20,19 @@ It makes a core base to build more easily the first steps.
 * Size reset to *media* elements;
 * No native font stack.
 
-# Download
+## Installation
 
-## NPM
+In NPM, download it from Github repository:
 
-```bash
-npm i -D https://github.com/inforgdev/spongia-css
+```sh
+npm i -D inforgdev/spongia-css
 ```
 
-# Usage
+## Usage
 
 > **Note:** the import need to be the first CSS import.
 
-Using a CSS loader, import it in the top of the main JS file:
+Using a CSS loader, in JS:
 
 ```js
 import 'spongia-css'
@@ -48,7 +50,7 @@ Or, in vanilla HTML:
 <link rel="stylesheet" href="node_modules/spongia-css/dist/spongia.min.css">
 ```
 
-## Components
+### Components
 
 * [Form](./_form.md)
 * [Layout](./_layout.md)

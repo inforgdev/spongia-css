@@ -1,4 +1,4 @@
-# Typography related elements
+# Typography elements
 
 ## *b*, *strong*
 
