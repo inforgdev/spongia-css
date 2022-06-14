@@ -6,10 +6,10 @@
 2. Remove border.
 3. Remove padding.
 
-* **Type**: reset
-* **Target**: all
+* **Type:** reset
+* **Target:** all
 
-```css
+```scss
 input {
 	&[type=button],
 	&[type=submit],
@@ -26,10 +26,10 @@ input {
 1. 2. Change the font styles in all browsers.
 3. Remove the margin.
 
-* **Type**: 1. 2. normalization, 3. reset
-* **Target**: 1. 2. all, 2. Firefox 4+, Safari 5, Chrome
+* **Type:** 1. 2. normalization, 3. reset
+* **Target:** 1. 2. all, 2. Firefox 4+, Safari 5, Chrome
 
-```css
+```scss
 button,
 input,
 optgroup,
@@ -45,10 +45,10 @@ textarea {
 
 Correct the inability to style clickable types.
 
-* **Type**: normalization
-* **Target**: iOS, Safari
+* **Type:** normalization
+* **Target:** iOS, Safari
 
-```css
+```scss
 button,
 [type='button'],
 [type='reset'],
@@ -62,10 +62,10 @@ button,
 
 Change font properties to 'inherit'.
 
-* **Type**: normalization
-* **Target**: Safari
+* **Type:** normalization
+* **Target:** Safari
 
-```css
+```scss
 ::-webkit-file-upload-button {
 	font: inherit;
 }

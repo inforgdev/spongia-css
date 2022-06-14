@@ -4,10 +4,10 @@
 
 Remove *iframe* border.
 
-* **Type**: reset
-* **Target**: all
+* **Type:** reset
+* **Target:** all
 
-```css
+```scss
 iframe {
 	border: 0;
 }
@@ -17,10 +17,10 @@ iframe {
 
 Reset size to all media elements.
 
-* **Type**: reset
-* **Target**: all
+* **Type:** reset
+* **Target:** all
 
-```css
+```scss
 iframe, img, input, video, select, textarea {
 	height: auto;
 	width: 100%;
