@@ -1,4 +1,4 @@
-# Color elements
+# UI elements
 
 ## *:-moz-ui-invalid*
 

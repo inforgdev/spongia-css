@@ -15,13 +15,13 @@ It makes a core base to build more easily the first steps.
 
 ## Installation
 
-Download and install via NPM from the Github repository:
+Download and install via NPM from Github repository:
 
 ```sh
-npm install --save-dev https://github.com/inforgdev/spongia-css
+npm install --save-dev inforgdev/spongia-css
 ```
 
-For usage, using a CSS loader, import it in the top of the main JS file:
+For usage, using a CSS loader, import it at the top of the main JS file:
 
 ```js
 import 'spongia-css'
