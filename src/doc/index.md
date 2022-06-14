@@ -9,9 +9,9 @@ It makes a core base to build more easily the first steps.
 * Minified;
 * Support only for modern web browsers;
 * Focused on common resets;
-* Corrects bugs and common browser inconsistencies;
 * Customizable, maintaining inheritance;
-* Based on the modern resetters/normalizers.
+* Corrects bugs and common browser inconsistencies;
+* Based on modern resetters/normalizers.
 
 * Layout resets, like *border-sizing* as *box model*;
 * No margin to typography related elements;
@@ -28,9 +28,9 @@ npm i -D https://github.com/inforgdev/spongia-css
 
 # Usage
 
-This need to be the first CSS.
+> **Note:** the import need to be the first CSS import.
 
-In Javascript, using a CSS loader, import it:
+Using a CSS loader, import it in the top of the main JS file:
 
 ```js
 import 'spongia-css'
@@ -38,7 +38,7 @@ import 'spongia-css'
 
 Or, in vanilla CSS:
 
-```css
+```scss
 @import 'node_modules/spongia-css/dist/spongia.min.css'
 ```
 
@@ -50,8 +50,8 @@ Or, in vanilla HTML:
 
 ## Components
 
-* [Form](_form.md)
-* [Layout](_layout.md)
-* [Media](_media_.md)
-* [Typography](_typo.md)
-* [UI](_ui_.md)
+* [Form](./_form.md)
+* [Layout](./_layout.md)
+* [Media](./_media.md)
+* [Typography](./_typo.md)
+* [UI](./_ui.md)

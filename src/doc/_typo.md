@@ -4,10 +4,10 @@
 
 Set style to `bolder`.
 
-* **Type**: normalization
-* **Target**: Firefox 4+, Safari 5, Chrome
+* **Type:** normalization
+* **Target:** Firefox 4+, Safari 5, Chrome
 
-```css
+```scss
 b,
 strong {
 	font-weight: bold;
@@ -18,10 +18,10 @@ strong {
 
 Set style not present.
 
-* **Type**: normalization
-* **Target**: Safari 5, Chrome
+* **Type:** normalization
+* **Target:** Safari 5, Chrome
 
-```css
+```scss
 dfn {
 	font-style: italic;
 }
@@ -31,10 +31,10 @@ dfn {
 
 Correct *font-size*.
 
-* **Type**: normalization
-* **Target**: all
+* **Type:** normalization
+* **Target:** all
 
-```css
+```scss
 small {
 	font-size: 80%;
 }
@@ -44,10 +44,10 @@ small {
 
 Prevent `sub` and `sup` elements from affecting the line height.
 
-* **Type**: normalization
-* **Target**: all
+* **Type:** normalization
+* **Target:** all
 
-```css
+```scss
 sub, sup {
 	font-size: 75%;
 	line-height: 0;
@@ -68,10 +68,10 @@ sup {
 
 Reset the *text-decoration*.
 
-* **Type**: normalization
-* **Target**: Chrome, Edge, Safari
+* **Type:** normalization
+* **Target:** Chrome, Edge, Safari
 
-```css
+```scss
 abbr[title] {
 	text-decoration: underline dotted;
 }
@@ -81,10 +81,10 @@ abbr[title] {
 
 Set *margin* of typography elements to *0* in all browsers.
 
-* **Type**: reset
-* **Target**: all
+* **Type:** reset
+* **Target:** all
 
-```css
+```scss
 h1, h2, h3, h4, h5, h6,
 p {
 	margin: 0;

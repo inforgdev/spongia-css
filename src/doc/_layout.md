@@ -7,13 +7,13 @@
 3. Reset the *line-height* in all browsers.
 4. Prevent adjustments of font size after orientation changes in iOS.
 
-* **Type**: reset, normalization
-* **Target**: 3. all, 4. iOS
+* **Type:** reset, normalization
+* **Target:** 3. all, 4. iOS
 
-* **References**:
+* **References:**
 	* 2. http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
 
-```css
+```scss
 html {
 	background-repeat: no-repeat; /* 1 */
 	box-sizing: border-box; /* 2 */
@@ -28,7 +28,7 @@ html {
 2. Handle *box-sizing* while better addressing child elements.
 3. Handle *line-height* while better addressing child elements.
 
-```css
+```scss
 *, *::before, *::after {
 	box-sizing: inherit; /* 1 */
 	background-repeat: inherit; /* 2 */
@@ -40,10 +40,10 @@ html {
 
 Set *html* and *body* to full height.
 
-* **Type**: reset
-* **Target**: all
+* **Type:** reset
+* **Target:** all
 
-```css
+```scss
 html, body {
     height: 100%;
 }
@@ -53,10 +53,10 @@ html, body {
 
 Set *body* *margin* to 0 in all browsers.
 
-* **Type**: reset
-* **Target**: all
+* **Type:** reset
+* **Target:** all
 
-```css
+```scss
 body {
 	margin: 0;
 }
@@ -67,13 +67,13 @@ body {
 1. Reset *height*.
 2. Reset the inheritance of border color.
 
-* **Type**: normalization
-* **Target**: Firefox
+* **Type:** normalization
+* **Target:** Firefox
 
-* **References**: 
+* **References:** 
 	* https://bugzilla.mozilla.org/show_bug.cgi?id=190655
 
-```css
+```scss
 hr {
 	height: 0; /* 1 */
 	color: inherit; /* 2 */
@@ -86,16 +86,16 @@ hr {
 2. Reset table border color inheritance.
 3. Set *border-collapse* to *collapse* as default.
 
-* **Type**: normalization; 3. reset
-* **Target**: Chrome, Safari
+* **Type:** normalization; 3. reset
+* **Target:** Chrome, Safari
 
-* **References**:
+* **References:**
 	* 1. https://bugs.chromium.org/p/chromium/issues/detail?id=999088
 	* 1. https://bugs.webkit.org/show_bug.cgi?id=201297
 	* 2. https://bugs.chromium.org/p/chromium/issues/detail?id=935729
 	* 2. https://bugs.webkit.org/show_bug.cgi?id=195016
 
-```css
+```scss
 table {
 	text-indent: 0; /* 1 */
 	border-color: inherit; /* 2 */
@@ -111,10 +111,10 @@ td, th {
 
 Reset *summary* *display* style.
 
-* **Type**: normalization
-* **Target**: Chrome, Safari
+* **Type:** normalization
+* **Target:** Chrome, Safari
 
-```css
+```scss
 summary {
 	display: list-item;
 }
@@ -124,10 +124,10 @@ summary {
 
 Remove the default list style in *nav*.
 
-* **Type**: reset
-* **Target**: all
+* **Type:** reset
+* **Target:** all
 
-```css
+```scss
 nav ul {
 	list-style: none;
 	padding: 0;
