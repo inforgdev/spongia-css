@@ -33,7 +33,7 @@ import 'spongia-css'
 
 ## License
 
-This project can be used for anything except it violates the Private Property Law (like selling it with plagiarism), otherwise you can use, copy, modify, distribute, sell, etc.
+[Click here to see the license.](./license.md)
 
 ## Support
 
