@@ -2,6 +2,7 @@ index.scss
 gulpfile.js
 .gitignore
 README.md
+LICENCE.md
 node_modules
 src
 .vscode
