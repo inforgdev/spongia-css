@@ -23,7 +23,7 @@
   ],
   "author": "inforgdev <contact@inforg.dev>",
   "homepage": "https://github.com/inforgdev/spongia-css",
-  "license": "SEE LICENSE IN license.md",
+  "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
     "cssnano": "^5.1.10",
     "del": "^6.0.0",
