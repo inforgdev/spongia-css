@@ -33,7 +33,7 @@ import 'spongia-css'
 
 ## License
 
-[Click here to see the license.](./license.md)
+[Click here to see the license.](./LICENSE.md)
 
 ## Support
 
