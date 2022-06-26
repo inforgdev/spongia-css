@@ -31,10 +31,6 @@ import 'spongia-css'
 
 [Click here to see the documentation.](./src/doc/index.md)
 
-## License
-
-[Click here to see the license.](./LICENSE.md)
-
 ## Support
 
 If there is some question, contact us via e-mail or any social media.
@@ -42,3 +38,7 @@ If there is some question, contact us via e-mail or any social media.
 ## Contributing
 
 [Click here to see the contributing file.](./CONTRIBUTING.md)
+
+## License
+
+[Click here to see the license.](./LICENSE.md)
