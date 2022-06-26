@@ -41,4 +41,4 @@ If there is some question, contact us via e-mail or any social media.
 
 ## Contributing
 
-If you have any problems, catch the bug or have any suggestion - please find an existing issue or create new on Github.
+[Click here to see the contributing file.](./CONTRIBUTING.md)
