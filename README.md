@@ -17,7 +17,7 @@ It makes a core base to build more easily the first steps.
 
 Download and install via NPM from Github repository:
 
-```sh
+```bash
 npm install --save-dev inforgdev/spongia-css
 ```
 
