@@ -6,7 +6,7 @@ const { task, watch, src, dest, parallel } = gulp;
 import rename from 'gulp-rename';
 import gulpPug from 'gulp-pug';
 import gulpSass from 'gulp-sass';
-import sassCompiler from 'node-sass';
+import sassCompiler from 'sass';
 import postcss from 'gulp-postcss';
 import minify from 'postcss-csso';
 
