@@ -39,12 +39,12 @@ task('main:compile', function() {
 		.pipe(dest(config.main.dist));
 });
 
+task('main:watch', function () {
+	watch(config.main.scss.src, parallel(['main:compile']));
+});
+
 task('test:compile', function() {
 	return src(config.test.src)
 		.pipe(gulpPug())
 		.pipe(dest(config.test.dist));
-});
-
-task('main:watch', function () {
-	watch(config.main.scss.src, parallel(['main:compile']));
 });
