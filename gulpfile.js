@@ -1,5 +1,3 @@
-//gulpfile.js
-
 import del from 'del';
 import gulp from 'gulp';
 const { task, watch, src, dest, parallel } = gulp;
