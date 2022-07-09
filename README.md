@@ -29,7 +29,7 @@ import 'spongia-css'
 
 ## Documentation
 
-[Click here to see the documentation.](./src/doc/index.md)
+[Click here to see the documentation.](./src/docs/index.md)
 
 ## Support
 
