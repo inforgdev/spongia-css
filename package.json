@@ -1,40 +1,40 @@
 {
-  "name": "spongia-css",
-  "version": "0.1.5",
-  "description": "Style resetter/normalizer for modern web browsers.",
-  "main": "dist/spongia.min.css",
-  "type": "module",
-  "scripts": {
-    "dist:clean": "grunt dist:clean",
-    "main:compile": "grunt main:compile",
-    "main:watch": "grunt main:watch",
-    "test:compile": "grunt test:compile",
-    "test:watch": "grunt test:watch"
-  },
-  "keywords": [
-    "style",
-    "css",
-    "sass",
-    "scss",
-    "normalizer",
-    "normalize",
-    "resetter",
-    "reset"
-  ],
-  "author": "Inforg <contact@inforg.dev> (https://inforg.dev)",
-  "contributors": [
-    "Luis Float <contact@luisfloat.com> (https://luisfloat.com)"
-  ],
-  "homepage": "https://github.com/inforgdev/spongia-css",
-  "license": "SEE LICENSE IN LICENSE.md",
-  "devDependencies": {
-    "grunt": "^1.5.3",
-    "grunt-cli": "^1.4.3",
-    "grunt-contrib-clean": "^2.0.1",
-    "grunt-contrib-cssmin": "^4.0.0",
-    "grunt-contrib-pug": "^3.0.0",
-    "grunt-contrib-sass": "^2.0.0",
-    "grunt-contrib-watch": "^1.1.0",
-    "sass": "^1.53.0"
-  }
+    "name": "spongia-css",
+    "version": "0.1.5",
+    "description": "Style resetter/normalizer for modern web browsers.",
+    "main": "dist/spongia.min.css",
+    "type": "module",
+    "scripts": {
+        "dist:clean": "grunt dist:clean",
+        "main:compile": "grunt main:compile",
+        "main:watch": "grunt main:watch",
+        "test:compile": "grunt test:compile",
+        "test:watch": "grunt test:watch"
+    },
+    "keywords": [
+        "style",
+        "css",
+        "sass",
+        "scss",
+        "normalizer",
+        "normalize",
+        "resetter",
+        "reset"
+    ],
+    "author": "Inforg <contact@inforg.dev> (https://inforg.dev)",
+    "contributors": [
+        "Luis Float <contact@luisfloat.com> (https://luisfloat.com)"
+    ],
+    "homepage": "https://github.com/inforgdev/spongia-css",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "devDependencies": {
+        "grunt": "^1.5.3",
+        "grunt-cli": "^1.4.3",
+        "grunt-contrib-clean": "^2.0.1",
+        "grunt-contrib-cssmin": "^4.0.0",
+        "grunt-contrib-pug": "^3.0.0",
+        "grunt-contrib-sass": "^2.0.0",
+        "grunt-contrib-watch": "^1.1.0",
+        "sass": "^1.53.0"
+    }
 }
