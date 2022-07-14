@@ -1,6 +1,6 @@
 {
     "name": "spongia-css",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "Style resetter/normalizer for modern web browsers.",
     "main": "dist/spongia.min.css",
     "type": "module",
@@ -27,6 +27,7 @@
     ],
     "homepage": "https://github.com/inforgdev/spongia-css",
     "repo": "github:inforgdev/spongia-css",
+    "bugs": "https://github.com/inforgdev/spongia-css/issues",
     "license": "SEE LICENSE IN LICENSE.md",
     "devDependencies": {
         "grunt": "^1.5.3",
