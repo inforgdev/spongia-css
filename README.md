@@ -1,5 +1,7 @@
 # SpongiaCSS
 
+<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributing-SEE CONTRIBUTING IN CONTRIBUTING.md-005c99?style=flat&amp;logo=" alt="Contributing"/></a> <a href="./src/docs/index.md"><img src="https://img.shields.io/badge/Documentation-src/docs/index.md-005c99?style=flat&amp;logo=" alt="Documentation"/></a> <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-SEE LICENSE IN LICENSE.md-005c99?style=flat&amp;logo=" alt="License"/></a>
+
 ## About
 
 SpongiaCSS is a style resetter/normalizer for modern web browsers.
@@ -27,18 +29,6 @@ For usage, using a CSS loader, import it at the top of the main JS file:
 import 'spongia-css'
 ```
 
-## Documentation
-
-[Click here to see the documentation.](./src/docs/index.md)
-
 ## Support
 
 If there is some question, contact us via e-mail or any social media.
-
-## Contributing
-
-[Click here to see the contributing file.](./CONTRIBUTING.md)
-
-## License
-
-[Click here to see the license.](./LICENSE.md)
