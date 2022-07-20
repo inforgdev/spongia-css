@@ -49,11 +49,3 @@ Or, in vanilla HTML:
 ```html
 <link rel="stylesheet" href="node_modules/spongia-css/dist/spongia.min.css">
 ```
-
-### Components
-
-* [Form](./_form.md)
-* [Layout](./_layout.md)
-* [Media](./_media.md)
-* [Typography](./_typo.md)
-* [UI](./_ui.md)

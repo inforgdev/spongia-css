@@ -90,5 +90,3 @@ p {
 	margin: 0;
 }
 ```
-
-[Previous](index.md)

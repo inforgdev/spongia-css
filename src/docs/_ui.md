@@ -15,5 +15,3 @@ Remove the additional ':invalid' styles.
 	box-shadow: none;
 }
 ```
-
-[Previous](index.md)

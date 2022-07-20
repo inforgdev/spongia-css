@@ -70,5 +70,3 @@ Change font properties to 'inherit'.
 	font: inherit;
 }
 ```
-
-[Previous](index.md)
