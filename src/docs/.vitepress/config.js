@@ -12,11 +12,11 @@ export default {
                 text: 'Content',
                 collapsible: true,
                 items: [
-                    { text: 'Form', link: '/_form' },
-                    { text: 'Layout', link: '/_layout' },
-                    { text: 'Media', link: '/_media' },
-                    { text: 'Typography', link: '/_typo' },
-                    { text: 'UI', link: '/_ui' },
+                    { text: 'Form', link: '/form' },
+                    { text: 'Layout', link: '/layout' },
+                    { text: 'Media', link: '/media' },
+                    { text: 'Typography', link: '/typo' },
+                    { text: 'UI', link: '/ui' },
                 ],
             }
         ]
