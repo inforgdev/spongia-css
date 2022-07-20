@@ -1,6 +1,6 @@
 {
     "name": "spongia-css",
-    "version": "0.1.8",
+    "version": "0.1.9",
     "description": "Style resetter/normalizer for modern web browsers.",
     "main": "dist/spongia.min.css",
     "type": "module",
@@ -9,7 +9,9 @@
         "main:compile": "grunt main:compile",
         "main:watch": "grunt main:watch",
         "test:compile": "grunt test:compile",
-        "test:watch": "grunt test:watch"
+        "test:watch": "grunt test:watch",
+        "docs:dev": "vitepress dev src/docs",
+        "docs:build": "vitepress build src/docs"
     },
     "keywords": [
         "style",
@@ -37,6 +39,8 @@
         "grunt-contrib-pug": "^3.0.0",
         "grunt-contrib-sass": "^2.0.0",
         "grunt-contrib-watch": "^1.1.0",
-        "sass": "^1.53.0"
+        "sass": "^1.53.0",
+        "vitepress": "^1.0.0-alpha.4",
+        "vue": "^3.2.37"
     }
 }
