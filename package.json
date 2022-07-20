@@ -1,6 +1,6 @@
 {
     "name": "spongia-css",
-    "version": "0.1.9",
+    "version": "0.1.10",
     "description": "Style resetter/normalizer for modern web browsers.",
     "main": "dist/spongia.min.css",
     "type": "module",

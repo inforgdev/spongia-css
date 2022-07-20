@@ -1,4 +1,4 @@
-# SpongiaCSS Doc
+# SpongiaCSS Docs
 
 ## About
 
