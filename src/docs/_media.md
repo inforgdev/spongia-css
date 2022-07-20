@@ -26,5 +26,3 @@ iframe, img, input, video, select, textarea {
 	width: 100%;
 }
 ```
-
-[Previous](index.md)

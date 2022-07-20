@@ -134,5 +134,3 @@ nav ul {
 	margin: 0;
 }
 ```
-
-[Previous](index.md)
