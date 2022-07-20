@@ -2,6 +2,7 @@ export default {
     title: 'SpongiaCSS Docs',
     description: 'SpongiaCSS Documentation',
     base: '/spongia-css/',
+    appearence: true,
     themeConfig: {
         siteTitle: 'SpongiaCSS Docs',
         socialLinks: [
