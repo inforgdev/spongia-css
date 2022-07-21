@@ -1,10 +1,10 @@
 export default {
-    title: 'SpongiaCSS Docs',
+    title: 'SpongiaCSS',
     description: 'SpongiaCSS Documentation',
     base: '/spongia-css/',
     appearence: true,
     themeConfig: {
-        siteTitle: 'SpongiaCSS Docs',
+        siteTitle: 'SpongiaCSS',
         socialLinks: [
             { icon: 'github', link: 'https://github.com/inforgdev/spongia-css' }
         ],
