@@ -8,6 +8,9 @@ export default {
         socialLinks: [
             { icon: 'github', link: 'https://github.com/inforgdev/spongia-css' },
         ],
+        footer: {
+            copyright: "By Inforg",
+        },
         sidebar: [
             {
                 text: 'Content',
