@@ -4,16 +4,14 @@
 
 ## About
 
-SpongiaCSS is a style resetter/normalizer for modern web browsers.
+SpongiaCSS is a CSS resetter for modern web browsers.
 
 It makes a core base to build more easily the first steps.
 
-* Minified;
-* Support only for modern web browsers;
-* Focused on common resets;
-* Corrects bugs and common browser inconsistencies;
-* Customizable, maintaining inheritance;
-* Based on modern resetters/normalizers.
+- ⚡ **Minimal** - Focused on common resets, like no body `margin`
+- 🛠️ **Customizable** - Maintaining inheritance and no native font stack
+- 💻 **Modern** - Support only for modern web browsers
+- 🌐 **Cross-browsing** - Corrects bugs and common browser inconsistencies
 
 ## Installation
 
