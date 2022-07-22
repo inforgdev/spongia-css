@@ -6,7 +6,7 @@ export default {
     themeConfig: {
         siteTitle: 'SpongiaCSS',
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/inforgdev/spongia-css' }
+            { icon: 'github', link: 'https://github.com/inforgdev/spongia-css' },
         ],
         sidebar: [
             {
@@ -20,6 +20,6 @@ export default {
                     { text: 'UI', link: '/ui' },
                 ],
             }
-        ]
-    }
+        ],
+    },
 }
