@@ -1,7 +1,7 @@
 {
     "name": "spongia-css",
     "version": "0.2.11",
-    "description": "Style resetter/normalizer for modern web browsers.",
+    "description": "CSS resetter for modern web browsers.",
     "main": "dist/spongia.min.css",
     "scripts": {
         "dist:clean": "grunt dist:clean",
@@ -15,8 +15,6 @@
     "keywords": [
         "style",
         "css",
-        "sass",
-        "scss",
         "normalizer",
         "normalize",
         "resetter",
