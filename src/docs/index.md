@@ -5,6 +5,9 @@ hero:
   name: SpongiaCSS
   tagline: CSS resetter for modern web browsers
   actions:
+    - theme: brand
+      text: Get Started
+      link: /intro/about
     - theme: alt
       text: Documentation
       link: /form
