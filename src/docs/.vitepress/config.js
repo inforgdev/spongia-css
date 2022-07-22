@@ -1,6 +1,6 @@
 export default {
     title: 'SpongiaCSS',
-    description: 'SpongiaCSS Documentation',
+    description: 'SpongiaCSS Website',
     base: '/spongia-css/',
     appearence: true,
     themeConfig: {
