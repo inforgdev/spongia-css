@@ -13,6 +13,15 @@ export default {
         },
         sidebar: [
             {
+                text: 'Introduction',
+                collapsible: true,
+                items: [
+                    { text: 'About', link: '/intro/about' },
+                    { text: 'Install', link: '/intro/install' },
+                    { text: 'Usage', link: '/intro/usage' },
+                ],
+            },
+            {
                 text: 'Documentation',
                 collapsible: true,
                 items: [
@@ -22,7 +31,7 @@ export default {
                     { text: 'Typography', link: '/typo' },
                     { text: 'UI', link: '/ui' },
                 ],
-            }
+            },
         ],
     },
 }
