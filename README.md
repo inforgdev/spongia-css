@@ -1,6 +1,6 @@
 # SpongiaCSS
 
-<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributing-CONTRIBUTING.md-005c99?style=flat&amp;logo=" alt="Contributing"/></a> <a href="./src/docs/index.md"><img src="https://img.shields.io/badge/Documentation-website-005c99?style=flat&amp;logo=" alt="Documentation"/></a> <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-LICENSE.md-005c99?style=flat&amp;logo=" alt="License"/></a>
+<a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributing-CONTRIBUTING.md-005c99?style=flat&amp;logo=" alt="Contributing"/></a> <a href="https://inforg.dev/spongia-css"><img src="https://img.shields.io/badge/Documentation-website-005c99?style=flat&amp;logo=" alt="Documentation"/></a> <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-LICENSE.md-005c99?style=flat&amp;logo=" alt="License"/></a>
 
 ## About
 
