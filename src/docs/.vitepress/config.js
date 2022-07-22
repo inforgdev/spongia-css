@@ -5,6 +5,10 @@ export default {
     appearence: true,
     themeConfig: {
         siteTitle: 'SpongiaCSS',
+        nav: [
+            { text: 'Get Started', link: '/intro/about' },
+            { text: 'Documentation', link: '/form' },
+        ],
         socialLinks: [
             { icon: 'github', link: 'https://github.com/inforgdev/spongia-css' },
         ],
