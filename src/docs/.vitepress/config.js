@@ -13,7 +13,7 @@ export default {
         },
         sidebar: [
             {
-                text: 'Content',
+                text: 'Documentation',
                 collapsible: true,
                 items: [
                     { text: 'Form', link: '/form' },
