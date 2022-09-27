@@ -1,7 +1,7 @@
 {
     "name": "spongia-css",
     "version": "0.1.9",
-    "description": "Style resetter/normalizer for modern web browsers.",
+    "description": "CSS reset for modern web browsers.",
     "main": "dist/spongia.min.css",
     "type": "module",
     "scripts": {
@@ -14,14 +14,10 @@
         "docs:build": "vitepress build src/docs"
     },
     "keywords": [
-        "style",
         "css",
-        "sass",
-        "scss",
-        "normalizer",
-        "normalize",
-        "resetter",
-        "reset"
+        "reset",
+        "modern",
+        "scss"
     ],
     "author": "Inforg <contact@inforg.dev> (https://inforg.dev)",
     "contributors": [
