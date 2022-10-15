@@ -1,8 +1,7 @@
-index.scss
-gulpfile.js
+gruntfile.js
 .gitignore
 README.md
 LICENCE.md
-node_modules
-src
-.vscode
+node_modules/
+src/
+.vscode/
