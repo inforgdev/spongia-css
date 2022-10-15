@@ -6,9 +6,9 @@
     "type": "module",
     "scripts": {
         "dist:clean": "grunt dist:clean",
-        "main:compile": "grunt main:compile",
+        "main:build": "grunt main:compile",
         "main:watch": "grunt main:watch",
-        "test:compile": "grunt test:compile",
+        "test:build": "grunt test:compile",
         "test:watch": "grunt test:watch",
         "docs:dev": "vitepress dev src/docs",
         "docs:build": "vitepress build src/docs"
