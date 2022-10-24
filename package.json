@@ -10,8 +10,8 @@
         "main:watch": "grunt main:watch",
         "test:build": "grunt test:compile",
         "test:watch": "grunt test:watch",
-        "docs:dev": "vitepress dev src/docs",
-        "docs:build": "vitepress build src/docs"
+        "docs:dev": "vitepress dev ./",
+        "docs:build": "vitepress build ./"
     },
     "keywords": [
         "css",
