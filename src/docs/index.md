@@ -1,51 +1,31 @@
-# SpongiaCSS Doc
+---
+layout: home
 
-## About
+hero:
+  name: SpongiaCSS
+  tagline: CSS resetter for modern web browsers
+  actions:
+    - theme: brand
+      text: Get Started
+      link: /intro/about
+    - theme: alt
+      text: Documentation
+      link: /form
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/inforgdev/spongia-css
 
-Spongia CSS is a style resetter/normalizer for modern web browsers.
-
-It makes a core base to build more easily the first steps.
-
-### Features
-
-* Minified;
-* Support only for modern web browsers;
-* Focused on common resets;
-* Customizable, maintaining inheritance;
-* Corrects bugs and common browser inconsistencies;
-* Based on modern resetters/normalizers.
-
-* Layout resets, like *border-sizing* as *box model*;
-* No margin to typography related elements;
-* Size reset to *media* elements;
-* No native font stack.
-
-## Installation
-
-In NPM, download it from GitHub repository:
-
-```bash
-npm i -D inforgdev/spongia-css
-```
-
-## Usage
-
-> **Note:** the import need to be the first CSS import.
-
-Using a CSS loader, in JS:
-
-```js
-import 'spongia-css'
-```
-
-Or, in vanilla CSS:
-
-```scss
-@import 'node_modules/spongia-css/dist/spongia.min.css'
-```
-
-Or, in vanilla HTML:
-
-```html
-<link rel="stylesheet" href="node_modules/spongia-css/dist/spongia.min.css">
-```
+features:
+  - icon: ⚡
+    title: Minimal
+    details: Focused on common resets, like no body `margin`
+  - icon: 🛠️
+    title: Customizable
+    details: Maintaining inheritance and no native font stack
+  - icon: 💻
+    title: Modern
+    details: Support only for modern web browsers
+  - icon: 🌐
+    title: Cross-browsing
+    details: Corrects bugs and common browser inconsistencies
+---
