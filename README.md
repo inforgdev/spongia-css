@@ -8,6 +8,8 @@ SpongiaCSS is a CSS resetter for modern web browsers.
 
 It makes a core base to build more easily the first steps.
 
+## Features
+
 - ⚡ **Minimal** - Focused on common resets, like no body `margin`
 - 🛠️ **Customizable** - Maintaining inheritance and no native font stack
 - 💻 **Modern** - Support only for modern web browsers
@@ -21,12 +23,8 @@ Download and install via NPM from GitHub repository:
 npm install --save-dev inforgdev/spongia-css
 ```
 
-For usage, using a CSS loader, import it at the top of the main JS file:
+Using a CSS loader, import it at the top of the main JS file:
 
 ```js
 import 'spongia-css'
 ```
-
-## Support
-
-If there is some question, contact us via e-mail or any social media.
