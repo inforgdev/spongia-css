@@ -11,5 +11,5 @@
   <br/>
   <br/>
   </table>
-  <p align="center">SpongiaCSS is a CSS resetter for modern web browsers.</p>
+  <p align="center">CSS resetter for modern web browsers.</p>
 </div>
