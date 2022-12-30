@@ -41,8 +41,8 @@ module.exports = function(grunt) {
                 files: [
                     {
                         expand: true,
-                        src: "src/test/*.pug",
-                        dest: "src/test/",
+                        src: "test/*.pug",
+                        dest: "test/",
                         rename: (dest, src) => { return dest + basename(src).replace(".pug", ".html") },
                     }
                 ]
@@ -54,7 +54,7 @@ module.exports = function(grunt) {
                 tasks: [ 'main:compile' ],
             },
             test: {
-                files: [ "src/test/*.pug" ],
+                files: [ "test/*.pug" ],
                 tasks: [ 'test:compile' ],
             },
         }
