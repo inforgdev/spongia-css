@@ -1,7 +1,7 @@
 # SpongiaCSS
 
 <div align="center">
-  <img src="src/docs/assets/logo.png" width="128" height="128"/>
+  <img src="docs/assets/logo.png" width="128" height="128"/>
   <br/>
   SpongiaCSS •
   <a href="https://inforg.dev/spongia-css">🌐 Website</a> •
