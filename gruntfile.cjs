@@ -15,7 +15,7 @@ module.exports = function(grunt) {
                 files: [
                     {
                         expand: true,
-                        src: "src/main/*.scss",
+                        src: "src/*.scss",
                         dest: "dest/",
                         rename: (dest, src) => { return dest + basename(src) },
                     }
@@ -50,7 +50,7 @@ module.exports = function(grunt) {
         },
         watch: {
             main: {
-                files: [ "src/main/*.scss" ],
+                files: [ "src/*.scss" ],
                 tasks: [ 'main:compile' ],
             },
             test: {
